@@ -3,26 +3,26 @@
   <img src="https://your-banner-image-url.com" alt="AI & ML Enthusiast" width="100%"/>
 </p>
 
-# 🚀 Dipanshu Rana 
-**Data Scientist | MSc in Artificial Intelligence and Machine Learning | Gen AI | LLM | Machine Learning | NLP | Computer Vision | Power BI | Cloud  **  
-
-📍 Based in **Ireland** | 🧠 **Building AI solutions that make an impact**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-28A745?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com/)  
+<p align="center">
+  <h1>🚀 Dipanshu | AI & ML Enthusiast</h1>
+  <h3>MSc AI & ML | Data Scientist | NLP | Computer Vision | Power BI</h3>
+  <p>📍 Based in Ireland | 🧠 Passionate about AI, Data Science & ML</p>
+  <p>
+    <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> |
+    <a href="https://medium.com/@yourusername">Medium</a> |
+    <a href="https://yourportfolio.com/">Portfolio</a>
+  </p>
+</p>
 
 ---
 
-## 👨‍💻 About Me  
-💡 **AI Innovator | Data Enthusiast | Problem Solver**  
-
-- 🎓 **MSc in AI & ML** - University of Limerick  
-- 🏆 **1.5+ years** in AI, ML, & Data Science  
-- 💻 Skilled in **Python, NLP, Computer Vision, Power BI, AWS**  
-- 🚀 Passionate about **LLMs, End-to-End ML Pipelines, and Cloud AI Deployments**  
-- 🎯 Always exploring **cutting-edge AI research & industry applications**  
-
+<p align="center">
+  <h2>👨‍💻 About Me</h2>
+  <p>🎓 MSc in AI & ML, University of Limerick</p>
+  <p>🏆 1.5+ years experience in AI & Data Science</p>
+  <p>⚡ Skilled in Python, NLP, Computer Vision, Power BI, AWS</p>
+  <p>📌 Passionate about end-to-end ML pipelines, LLMs, and cloud deployment</p>
+</p>
 ---
 
 ## 🚀 Featured Projects  
