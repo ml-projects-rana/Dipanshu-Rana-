@@ -35,7 +35,7 @@ TensorFlow, Keras (LSTM, Bi-LSTM), GPU, Model Fine-tuning, NLTK, Jaccard Similar
   The Bi-LSTM model outperforms the LSTM model, showing the benefits of bidirectional flow for phrase extraction.
 
 #### 📌 **Complete Project find on the below Link:**
-    [Project](https://dipanshurana.medium.com/tweet-sentiment-extraction-31847f23ce6a)
+  [Project](https://dipanshurana.medium.com/tweet-sentiment-extraction-31847f23ce6a)
 
 --- 
 
