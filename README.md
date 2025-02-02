@@ -3,9 +3,8 @@
   <p>📍 Based in Ireland | 🚀 Welcome to My Portfolio!</p>
   <p>Explore a blend of data science projects that transform raw data into actionable insights. From machine learning models to data-driven solutions, take a look at what I’ve built!</p>
   <p>
-    <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> | 
-    <a href="https://medium.com/@yourusername">Medium</a> | 
-    <a href="https://yourportfolio.com/">Portfolio</a>
+    <a href="https://www.linkedin.com/in/dipanshu-rana//">LinkedIn</a> | 
+    <a href="https://dipanshurana.medium.com/">Medium</a> | 
   </p>
 </div>
 
@@ -22,16 +21,30 @@
 ---
 
 ## 🚀 Featured Projects  
-### **1️⃣ AI-Powered Resume Screening System**  
-📌 **Tech Stack:** LangChain | AstraDB | Hugging Face | Python  
-📌 **Description:** Built an LLM-driven system to automate skill extraction & interview question generation.  
-📌 **GitHub:** [🔗 Repo](https://github.com/yourproject) | **Demo:** [▶️ Watch](https://youtu.be/demo-video)  
+# 1. Sentiment Analysis & Key Phrase Extraction from Tweets
 
-<p align="center">
-  <img src="https://your-image-url.com" alt="Resume Screening System" width="80%"/>
-</p>  
-
+## 📌 **Description:**
+Using LSTM and Bi-LSTM models, this system predicts the word or phrase in a tweet that best represents the provided sentiment (negative, positive, neutral). LSTM captures sequential patterns, while Bi-LSTM processes text in both directions to improve sentiment understanding and identify key sentiment-related phrases.
 ---
+## 📌 **Tech Stack**:
+### **Deep Learning:**
+- TensorFlow | Keras (LSTM, Bi-LSTM models)| GPU Acceleration | Model Fine-tuning
+### **Natural Language Processing (NLP):**
+- NLTK | Jaccard Similarity | Tokenization | Named Entity Recognition (NER) | Lemmatization | Stemming
+### **Web Development & Deployment:**
+- Flask | Python | REST API | HTML | API Integration
+### **Text Visualization:**
+- WordCloud | Matplotlib | Seaborn | Plotly | Custom Visualizations
+### **Data Processing & Tools:**
+- Pickle | Regex | Pandas | NumPy | Scikit-learn
+### 📌 **Model Performance:**
+- **LSTM Jaccard Score:** 0.57
+- **Bi-LSTM Jaccard Score:** 0.63  
+  The Bi-LSTM model outperforms the LSTM model, showing the benefits of bidirectional flow for sentiment analysis.
+---
+## 📌 **Complete Project find on the below Link:**
+🔗 https://dipanshurana.medium.com/tweet-sentiment-extraction-31847f23ce6a
+--- 
 
 ### **2️⃣ AI-Enabled Abdominal Injury Detection**  
 📌 **Tech Stack:** PyTorch | OpenCV | TensorFlow | Medical Imaging  
@@ -55,12 +68,6 @@
 
 ---
 
-## 📝 Blogs & Articles  
-📌 [LangChain & AstraDB for AI Chatbots](https://medium.com/@yourusername)  
-📌 [Deploying ML Models with AWS & Docker](https://medium.com/@yourusername)  
-📌 [NLP & Resume Parsing with BERT](https://medium.com/@yourusername)  
-
----
 
 ## 🏅 Certifications  
 ✅ **Python for Data Science** - [📜 View](https://link-to-cert)  
@@ -70,12 +77,10 @@
 ---
 
 ## 📬 Connect With Me  
-📩 **Email:** your.email@gmail.com  
-🌍 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)  
+📩 **Email:** ranadipanshu19@gmail.com  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/dipanshu-rana//)  
 
 ---
 
-⭐ **If you found my work interesting, drop a ⭐ & let's innovate together!** 🚀
 
 
