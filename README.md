@@ -21,29 +21,18 @@
 ---
 
 ## 🚀 Featured Projects  
-# 1. Sentiment Analysis & Key Phrase Extraction from Tweets
+### 1. Sentiment Analysis & Key Phrase Extraction from Tweets
 
-## 📌 **Description:**
+#### 📌 **Description:**
 Using LSTM and Bi-LSTM models, this system predicts the word or phrase in a tweet that best represents the provided sentiment (negative, positive, neutral). LSTM captures sequential patterns, while Bi-LSTM processes text in both directions to improve sentiment understanding and identify key sentiment-related phrases.
 ---
-## 📌 **Tech Stack**:
-### **Deep Learning:**
-- TensorFlow | Keras (LSTM, Bi-LSTM models)| GPU Acceleration | Model Fine-tuning
-### **Natural Language Processing (NLP):**
-- NLTK | Jaccard Similarity | Tokenization | Named Entity Recognition (NER) | Lemmatization | Stemming
-### **Web Development & Deployment:**
-- Flask | Python | REST API | HTML | API Integration
-### **Text Visualization:**
-- WordCloud | Matplotlib | Seaborn | Plotly | Custom Visualizations
-### **Data Processing & Tools:**
-- Pickle | Regex | Pandas | NumPy | Scikit-learn
-### 📌 **Model Performance:**
-- **LSTM Jaccard Score:** 0.57
-- **Bi-LSTM Jaccard Score:** 0.63  
-  The Bi-LSTM model outperforms the LSTM model, showing the benefits of bidirectional flow for sentiment analysis.
+#### 📌 **Tech Stack**:
+TensorFlow | Keras (LSTM, Bi-LSTM) | GPU | Model Fine-tuning | NLTK | Jaccard Similarity | Tokenization | Lemmatization | Stemming | Flask | Python | REST API | HTML | WordCloud | Matplotlib | Seaborn | Regex | Pandas | NumPy | Scikit-learn
+
 ---
-## 📌 **Complete Project find on the below Link:**
+#### 📌 **Complete Project find on the below Link:**
 🔗 https://dipanshurana.medium.com/tweet-sentiment-extraction-31847f23ce6a
+
 --- 
 
 ### **2️⃣ AI-Enabled Abdominal Injury Detection**  
