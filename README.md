@@ -8,9 +8,7 @@
   <h3>MSc AI & ML | Data Scientist | NLP | Computer Vision | Power BI</h3>
   <p>📍 Based in Ireland | 🧠 Passionate about AI, Data Science & ML</p>
   <p>
-    <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> |
-    <a href="https://medium.com/@yourusername">Medium</a> |
-    <a href="https://yourportfolio.com/">Portfolio</a>
+    <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> | <a href="https://medium.com/@yourusername">Medium</a> | <a href="https://yourportfolio.com/">Portfolio</a>
   </p>
 </p>
 
@@ -23,7 +21,7 @@
   <p>⚡ Skilled in Python, NLP, Computer Vision, Power BI, AWS</p>
   <p>📌 Passionate about end-to-end ML pipelines, LLMs, and cloud deployment</p>
 </p>
----
+
 
 ## 🚀 Featured Projects  
 ### **1️⃣ AI-Powered Resume Screening System**  
