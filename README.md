@@ -2,7 +2,6 @@
   <h3>AI & ML Enthusiast</h3>
   <p>📍 Based in Ireland | 🚀 Welcome to My Portfolio!</p>
   <p>Explore a blend of data science projects that transform raw data into actionable insights. From machine learning models to data-driven solutions, take a look at what I’ve built!</p>
-  <p>🧠 Passionate about AI, Data Science & ML</p>
   <p>
     <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> | 
     <a href="https://medium.com/@yourusername">Medium</a> | 
