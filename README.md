@@ -12,13 +12,13 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <h2>👨‍💻 About Me</h2>
-  <p>🎓 MSc in AI & ML, University of Limerick</p>
-  <p>🏆 1.5+ years experience in AI & Data Science</p>
-  <p>⚡ Skilled in Python, NLP, Computer Vision, Power BI, AWS</p>
-  <p>📌 Passionate about end-to-end ML pipelines, LLMs, and cloud deployment</p>
-</p>
+  <p>🎓 MSc in Artificial Intelligence and Machine Learning, University of Limerick</p>
+  <p>🏆 1.5+ years experience in AI and Data Science</p>
+  <p>⚡ Skilled in Python, Machine Learning, NLP, Computer Vision, Generative AI, LLM, Power BI, AWS, and SQL/NoSQL Databases</p>
+</div>
+
 
 ---
 
