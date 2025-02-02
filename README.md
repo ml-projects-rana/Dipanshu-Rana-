@@ -11,8 +11,7 @@
 
 
 ---
-
-<div align="center">
+<div>
   <h2>👨‍💻 About Me</h2>
   <p>🎓 MSc in Artificial Intelligence and Machine Learning, University of Limerick</p>
   <p>🏆 1.5+ years experience in AI and Data Science</p>
