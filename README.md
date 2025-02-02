@@ -22,6 +22,7 @@
   <p>📌 Passionate about end-to-end ML pipelines, LLMs, and cloud deployment</p>
 </p>
 
+---
 
 ## 🚀 Featured Projects  
 ### **1️⃣ AI-Powered Resume Screening System**  
