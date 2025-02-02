@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <h1>Dipanshu_Rana</h1>
   <h3>AI & ML Enthusiast</h3>
   <p>📍 Based in Ireland | 🚀 Welcome to My Portfolio!</p>
   <p>Explore a blend of data science projects that transform raw data into actionable insights. From machine learning models to data-driven solutions, take a look at what I’ve built!</p>
