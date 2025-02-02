@@ -27,7 +27,7 @@
 Using LSTM and Bi-LSTM models, this system predicts the word or phrase in a tweet that best represents the provided sentiment (negative, positive, neutral). LSTM captures sequential patterns, while Bi-LSTM processes text in both directions to improve sentiment understanding and identify key sentiment-related phrases.
 ---
 #### 📌 **Tech Stack**:
-TensorFlow | Keras (LSTM, Bi-LSTM) | GPU | Model Fine-tuning | NLTK | Jaccard Similarity | Tokenization | Lemmatization | Stemming | Flask | Python | REST API | HTML | WordCloud | Matplotlib | Seaborn | Regex | Pandas | NumPy | Scikit-learn
+TensorFlow, Keras (LSTM, Bi-LSTM), GPU, Model Fine-tuning, NLTK, Jaccard Similarity, Tokenization, Lemmatization, Stemming, Flask, Python, REST API, HTML, WordCloud, Matplotlib, Seaborn, Regex, Pandas, NumPy, Scikit-learn
 
 ---
 #### 📌 **Complete Project find on the below Link:**
