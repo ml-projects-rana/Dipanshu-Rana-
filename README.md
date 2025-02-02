@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <h1>🚀 Dipanshu | AI & ML Enthusiast</h1>
-  <h3>MSc AI & ML | Data Scientist | NLP | Computer Vision | Power BI</h3>
+  <h1>🚀 Welcome to My Portfolio!</h1>
+  <h3>Explore a blend of data science projects that transform raw data into actionable insights. From machine learning models to data-driven solutions, take a look at what I’ve built!</h3>
   <p>📍 Based in Ireland | 🧠 Passionate about AI, Data Science & ML</p>
   <p>
     <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> | <a href="https://medium.com/@yourusername">Medium</a> | <a href="https://yourportfolio.com/">Portfolio</a>
