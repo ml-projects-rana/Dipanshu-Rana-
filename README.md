@@ -17,16 +17,12 @@
 </div>
 
 ---
-
 ## 🚀 Featured Projects  
 ### 1. Tweet Sentiment Extraction (NLP)
-
 #### 📌 **Description:**
-Using LSTM and Bi-LSTM models, this system predicts the word or phrase in a tweet that best represents the provided sentiment (negative, positive, neutral). LSTM captures sequential patterns, while Bi-LSTM processes text in both directions to improve sentiment understanding and identify key sentiment-related phrases.
-
+Using LSTM and Bi-LSTM, these models extracts key words or phrases from tweets that best reflect their sentiment (positive, negative, neutral). LSTM captures sequential dependencies, while Bi-LSTM enhances sentiment understanding by processing text bidirectionally.
 #### 📌 **Tech Stack**:
-TensorFlow, Keras (LSTM, Bi-LSTM), GPU, Model Fine-tuning, NLTK, Jaccard Similarity, Tokenization, Lemmatization, Stemming, Flask, Python, REST API, HTML, WordCloud, Matplotlib, Seaborn, Regex, Pandas, NumPy, Scikit-learn
-
+TensorFlow, Keras, NLTK, Tokenization, Lemmatization, Stemming, Flask, Python, REST API, HTML, WordCloud, Matplotlib, Seaborn, Regex, Pandas, NumPy, Scikit-learn
 #### 📌 **Complete Project Link:** [Project](https://dipanshurana.medium.com/tweet-sentiment-extraction-31847f23ce6a)
 
 --- 
