@@ -34,7 +34,7 @@ TensorFlow, Keras (LSTM, Bi-LSTM), GPU, Model Fine-tuning, NLTK, Jaccard Similar
 - **Bi-LSTM Jaccard Score:** 0.63  
   The Bi-LSTM model outperforms the LSTM model, showing the benefits of bidirectional flow for phrase extraction.
 
-#### 📌 **Complete Project find on the below Link:** [Project](https://dipanshurana.medium.com/tweet-sentiment-extraction-31847f23ce6a)
+#### 📌 **Complete Project Link:** [Project](https://dipanshurana.medium.com/tweet-sentiment-extraction-31847f23ce6a)
 
 --- 
 
