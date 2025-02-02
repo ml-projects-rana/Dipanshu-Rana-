@@ -18,7 +18,7 @@
 
 ---
 ## 🚀 Featured Projects  
-### 1. Tweet Sentiment Extraction (NLP)
+### 1. Phrase Extraction based on Sentiments (NLP)
 #### 📌 **Description:**
 Using LSTM and Bi-LSTM, these models extracts key words or phrases from tweets that best reflect their sentiment (positive, negative, neutral). LSTM captures sequential dependencies, while Bi-LSTM enhances sentiment understanding by processing text bidirectionally.
 #### 📌 **Tech Stack**:
@@ -26,17 +26,14 @@ TensorFlow, Keras, NLTK, Tokenization, Lemmatization, Stemming, Flask, Python, R
 
 <a href="https://dipanshurana.medium.com/tweet-sentiment-extraction-31847f23ce6a" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #007bff; border-radius: 5px; text-decoration: none;">🔗 Read More</a>
 
-
 --- 
 
-### **2️⃣ AI-Enabled Abdominal Injury Detection**  
-📌 **Tech Stack:** PyTorch | OpenCV | TensorFlow | Medical Imaging  
-📌 **Description:** AI-powered CT scan analysis for organ localization & injury severity classification.  
-📌 **GitHub:** [🔗 Repo](https://github.com/yourproject) | **Demo:** [▶️ Watch](https://youtu.be/demo-video)  
-
-<p align="center">
-  <img src="https://your-image-url.com" alt="Medical AI Project" width="80%"/>
-</p>  
+### 2. Sales Forecasting
+#### 📌 **Description:**
+This project predicts Walmart store sales using historical data, optimizing inventory and profits without extensive customer analysis. It leverages time series techniques and ML models to forecast sales for the next 28 days across various product categories and locations.
+#### 📌 **Tech Stack**:
+Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Pickle, Flask, Rolling Mean, Lags, Label Encoding, Moving Average, Linear Regression, Decision Tree, Random Forest, XGBoost, CatBoost, LightGBM
+<a href="https://dipanshurana.medium.com/m5-forecasting-accuracy-1b5a10218fcf" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #007bff; border-radius: 5px; text-decoration: none;">🔗 Read More</a>
 
 ---
 
