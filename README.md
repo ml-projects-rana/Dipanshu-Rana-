@@ -23,6 +23,7 @@
 Using LSTM and Bi-LSTM, these models extracts key words or phrases from tweets that best reflect their sentiment (positive, negative, neutral). LSTM captures sequential dependencies, while Bi-LSTM enhances sentiment understanding by processing text bidirectionally.
 #### 📌 **Tech Stack**:
 TensorFlow, Keras, NLTK, Tokenization, Lemmatization, Stemming, Flask, Python, REST API, HTML, WordCloud, Matplotlib, Seaborn, Regex, Pandas, NumPy, Scikit-learn
+
 <a href="https://dipanshurana.medium.com/tweet-sentiment-extraction-31847f23ce6a" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #007bff; border-radius: 5px; text-decoration: none;">🔗 Read More</a>
 
 
