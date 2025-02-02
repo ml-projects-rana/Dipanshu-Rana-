@@ -1,9 +1,4 @@
-<!-- 🚀 Dynamic Banner Image (Optional) -->
-<p align="center">
-  <img src="https://your-banner-image-url.com" alt="AI & ML Enthusiast" width="100%"/>
-</p>
-
-<p align="center">
+<div align="center">
   <h3>AI & ML Enthusiast</h3>
   <p>📍 Based in Ireland | 🚀 Welcome to My Portfolio!</p>
   <p>Explore a blend of data science projects that transform raw data into actionable insights. From machine learning models to data-driven solutions, take a look at what I’ve built!</p>
@@ -13,7 +8,7 @@
     <a href="https://medium.com/@yourusername">Medium</a> | 
     <a href="https://yourportfolio.com/">Portfolio</a>
   </p>
-</p>
+</div>
 
 
 ---
