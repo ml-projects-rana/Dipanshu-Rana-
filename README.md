@@ -1,6 +1,8 @@
 <div align="center">
+  <h3> 🚀 Welcome to My Portfolio!</h3>
   <h3>Experienced Data Scientist | Passionate About AI/ML | Building Insights from Complex Data</h3>
-  <p>📍 Based in Ireland | 🚀 Welcome to My Portfolio!</p>
+  <p>📍 Based in Ireland | </p>
+  <p>📍 Based in Ireland | </p>
   <p>Explore a blend of data science projects that transform raw data into actionable insights. From machine learning models to data-driven solutions, take a look at what I’ve built!</p>
   <p>
     <a href="https://www.linkedin.com/in/dipanshu-rana//">LinkedIn</a> | 
