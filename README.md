@@ -3,8 +3,8 @@
   <h4>Experienced Data Scientist | Passionate About AI/ML | Building Insights from Complex Data</h4>
   <p>📍 Based in Ireland | </p>
   <p>
-    <a href="https://www.linkedin.com/in/dipanshu-rana//">LinkedIn</a> | 
-    <a href="https://dipanshurana.medium.com/">Medium</a> | 
+    <a href="https://www.linkedin.com/in/dipanshu-rana//">LinkedIn</a> 
+    <a href="https://dipanshurana.medium.com/">Medium</a> 
   </p>
 </div>
 
