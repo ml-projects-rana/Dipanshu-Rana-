@@ -8,7 +8,6 @@
   </p>
 </div>
 
-
 ---
 <div>
   <h2>👨‍💻 About Me</h2>
@@ -16,7 +15,6 @@
   <p>🏆 1.5+ years experience in AI and Data Science</p>
   <p>⚡ Skilled in Python, Machine Learning, NLP, Computer Vision, Generative AI, LLM, Power BI, AWS, and SQL/NoSQL Databases</p>
 </div>
-
 
 ---
 
@@ -28,11 +26,6 @@ Using LSTM and Bi-LSTM models, this system predicts the word or phrase in a twee
 
 #### 📌 **Tech Stack**:
 TensorFlow, Keras (LSTM, Bi-LSTM), GPU, Model Fine-tuning, NLTK, Jaccard Similarity, Tokenization, Lemmatization, Stemming, Flask, Python, REST API, HTML, WordCloud, Matplotlib, Seaborn, Regex, Pandas, NumPy, Scikit-learn
-
-#### 📌 **Model Performance:**
-- **LSTM Jaccard Score:** 0.57
-- **Bi-LSTM Jaccard Score:** 0.63  
-  The Bi-LSTM model outperforms the LSTM model, showing the benefits of bidirectional flow for phrase extraction.
 
 #### 📌 **Complete Project Link:** [Project](https://dipanshurana.medium.com/tweet-sentiment-extraction-31847f23ce6a)
 
