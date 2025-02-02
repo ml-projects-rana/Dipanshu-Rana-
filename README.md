@@ -29,7 +29,7 @@ Using LSTM and Bi-LSTM models, this system predicts the word or phrase in a twee
 #### 📌 **Tech Stack**:
 TensorFlow, Keras (LSTM, Bi-LSTM), GPU, Model Fine-tuning, NLTK, Jaccard Similarity, Tokenization, Lemmatization, Stemming, Flask, Python, REST API, HTML, WordCloud, Matplotlib, Seaborn, Regex, Pandas, NumPy, Scikit-learn
 
-### 📌 **Model Performance:**
+#### 📌 **Model Performance:**
 - **LSTM Jaccard Score:** 0.57
 - **Bi-LSTM Jaccard Score:** 0.63  
   The Bi-LSTM model outperforms the LSTM model, showing the benefits of bidirectional flow for phrase extraction.
